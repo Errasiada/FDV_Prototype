@@ -22,3 +22,6 @@
 
 ![ANM5](https://user-images.githubusercontent.com/114673717/207421288-3b771ce8-1a8c-4ba7-9f11-67e4a1389c44.gif)
 
+6.) Creating the tilemap for Background and Ground layers. Gameplay testing.
+
+![ANM5](https://user-images.githubusercontent.com/114673717/207444478-3e9f26f7-bf80-480e-8b9c-e91ce17e7403.gif)

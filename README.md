@@ -25,3 +25,7 @@
 6.) Creating the tilemap for Background and Ground layers. Gameplay testing.
 
 ![ANM5](https://user-images.githubusercontent.com/114673717/207444478-3e9f26f7-bf80-480e-8b9c-e91ce17e7403.gif)
+
+7.) Adding a Fire Trap with on/off animation.
+
+![ANM5](https://user-images.githubusercontent.com/114673717/207837342-dffb5e48-8804-4acb-a0dc-7cbd6ca89e4c.gif)

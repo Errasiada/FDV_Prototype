@@ -29,3 +29,8 @@
 7.) Adding a Fire Trap with on/off animation.
 
 ![ANM5](https://user-images.githubusercontent.com/114673717/207837342-dffb5e48-8804-4acb-a0dc-7cbd6ca89e4c.gif)
+
+8.) Adding a Switcher to the fire trap. Activates on trigger.
+
+![ANM5](https://user-images.githubusercontent.com/114673717/208238975-b2d9258e-2f48-4a52-90ea-61c4d5b26426.gif)
+

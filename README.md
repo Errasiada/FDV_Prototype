@@ -34,3 +34,8 @@
 
 ![ANM5](https://user-images.githubusercontent.com/114673717/208238975-b2d9258e-2f48-4a52-90ea-61c4d5b26426.gif)
 
+9.) Adding a Saw trap that moves between two points and addint its animation.
+
+![ANM6](https://user-images.githubusercontent.com/114673717/208685772-6a57cb0f-669a-4efe-b2e8-9a3a7c29e37e.gif)
+
+

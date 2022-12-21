@@ -1,4 +1,4 @@
-# FDV_Prototype
+# Jimbo's Adventure
 
 2D Platformer Game.
 

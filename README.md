@@ -38,4 +38,13 @@
 
 ![ANM6](https://user-images.githubusercontent.com/114673717/208685772-6a57cb0f-669a-4efe-b2e8-9a3a7c29e37e.gif)
 
+10.) Adding a Player's Knockback when hit by a trap, changing animation and pushing the player away depending on the hit's direction.
+
+![ANM7](https://user-images.githubusercontent.com/114673717/208912144-edb12224-4884-4be9-870c-d70745d303a9.gif)
+
+11.) Adding a Cinemachine camera that follows the player.
+
+![ANM10](https://user-images.githubusercontent.com/114673717/208915682-0eba6464-6707-4cdb-9605-ab30f669aa14.gif)
+
+
 

@@ -46,5 +46,10 @@
 
 ![ANM10](https://user-images.githubusercontent.com/114673717/208915682-0eba6464-6707-4cdb-9605-ab30f669aa14.gif)
 
+12.) Creating fruit sprites as collectables for the player.
+
+![ANM10](https://user-images.githubusercontent.com/114673717/209099572-aeaa6e53-e8e5-4bc1-b9f0-e550de6a08a8.gif)
+
+
 
 
